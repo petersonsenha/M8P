@@ -104,3 +104,6 @@ li.questao-a- {
 	text-transform:none;
 	widows:1;
 }
+.paralela{
+	display: flex;
+}
