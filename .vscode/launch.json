@@ -1,0 +1,14 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open MAT 8º ANO_Uini1_Manual.html",
+            "file": "c:\\Users\\User01\\Documents\\GitHub\\M8P\\HTML MANUAL\\content\\8ANO_U1\\MAT 8º ANO_Uini1_Manual.html"
+        }
+    ]
+}
