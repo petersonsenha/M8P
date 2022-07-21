@@ -106,4 +106,5 @@ li.questao-a- {
 }
 .paralela{
 	display: flex;
+	gap: 3em;
 }
