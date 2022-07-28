@@ -7,6 +7,18 @@
     text-align: center;
     margin-left: 30%;
 }
+.right{
+	text-align: right;
+	float: right;
+	margin-right: 3em;
+}
+.espaçoEsquerdo{
+	margin-left: 2em;
+}
+.espaçoDireito{
+	margin-right: 2em;
+	text-align: justify;
+}
 .layoutManual{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -107,4 +119,8 @@ li.questao-a- {
 .paralela{
 	display: flex;
 	gap: 3em;
+}
+.paralelo{
+	display: flex;
+	gap: 5px;
 }
